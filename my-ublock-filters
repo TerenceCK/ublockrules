@@ -1,36 +1,26 @@
-! 8/9/2019 http://www.biqujia.com
-||mo.iamqqo85467.cn/b/dot.gif$image
-www.biqujia.com###cs_right_bottom
-www.biqujia.com##.box_con > div:nth-of-type(3)
-
+! 网站
 ! 8/16/2019 https://news.discuss.com.hk
 news.discuss.com.hk###ad_interthread
+||it.recoco.it^$domain=finance.discuss.com.hk
+
+! 11/11/2019 https://finance.discuss.com.hk
+finance.discuss.com.hk###ad_type_f
+finance.discuss.com.hk###right_column
+finance.discuss.com.hk###startiframe > div
+finance.discuss.com.hk##tbody:nth-of-type(20)
+finance.discuss.com.hk##div:nth-of-type(4) > p
+finance.discuss.com.hk###remind-upgrade-password
 
 ! 8/20/2019 https://hk.yahoo.com
 !hk.yahoo.com###yui_3_12_0_4_1566263724130_366
 !hk.yahoo.com##li.Pb-8.Pt-10.Px-12.RevealNested.Pos-r.Cf.js-stream-content:nth-of-type(6)
 !hk.yahoo.com###my-adsTL3
 !hk.yahoo.com###yui_3_12_0_3_1566263962316_667
-
-! 10/28/2019 https://finance.discuss.com.hk
 !hk.yahoo.com#@#.js-stream-featured-ad
 !hk.yahoo.com#@#a[href^="https://beap.gemini.yahoo.com/mbclk?"][target="_blank"]
 !hk.yahoo.com#@#li.Pb-8.Pt-10.Px-12.RevealNested.Pos-r.Cf.js-stream-content:nth-of-type(6)
-
-! 11/8/2019 yahoo.com
 @@||s.yimg.com/ss/*$script,domain=hk.yahoo.com
-
-! 11/11/2019 https://finance.discuss.com.hk
-finance.discuss.com.hk###ad_type_f
-finance.discuss.com.hk###right_column
-finance.discuss.com.hk###startiframe > div
-
-! 11/11/2019 discuss.com.hk
-||it.recoco.it^$domain=finance.discuss.com.hk
-
-! 11/11/2019 https://finance.discuss.com.hk
-finance.discuss.com.hk##tbody:nth-of-type(20)
-finance.discuss.com.hk##div:nth-of-type(4) > p
+hk.yahoo.com###feature_stream_portal_hk-AlwaysBigGemini
 
 ! 11/11/2019 yahoo.com
 !||s1.yimg.com/uu/api/res/1.2/*$image,domain=hk.yahoo.com
@@ -39,120 +29,20 @@ finance.discuss.com.hk##div:nth-of-type(4) > p
 
 ! 2022-05-18 https://www.tradingview.com
 www.tradingview.com##.toast-wrapper-LaQcqQbu
-
-! 2022-05-18 https://finance.discuss.com.hk
-finance.discuss.com.hk###remind-upgrade-password
-
-! 2022-09-14 https://manwa.me
-@@||manwa.me/static/upload/ads/*$image,1p
-
-! 2022-11-24 https://www.tradingview.com
 www.tradingview.com###overlap-manager-root
-
-! 2022-11-29 https://www.tradingview.com
 ||static.tradingview.com/static/bundles/trial-notification.*.js$script,domain=www.tradingview.com
 
-! 2022-12-02 https://haoman8.com
-||haoman8.com/template/wap/default/js/swiper.js$script,domain=haoman8.com
 
-! 2021-05-10 https://m.mh1234.com
-m.mh1234.com###z320 > ul > li
-||p3.pstatp.com/large/pgc-image/*$image
-
+! 其他
 ! 2021-11-20 https://www.av01.tv
 ||kgua0o66bcw8.com^$subdocument,domain=www.av01.tv
 
-! 2021-12-07 https://www.ho5ho.com
-||ho5hocdn1.b-cdn.net/wp-content/uploads/2021/11/QT_300x100_TC_A.gif$image
-||ho5hocdn1.b-cdn.net/wp-content/plugins/floating-ads-bottom/images/close.png$image
 
-! 2021-12-16 https://mangaaction.com
-mangaaction.com##.body-top-ads.custom-code.c-ads.ad
-mangaaction.com##.c-row.row > .widget_custom_html.heading-style-1.no-icon.default.col-md-12.col-12.widget.widget_text
-mangaaction.com##.wp-manga.c-top-second-sidebar.c-sidebar
-mangaaction.com##.body-bottom-ads.custom-code.c-ads.ad
-mangaaction.com##.col-lg-8.col-md-8.col-sm-8.col-12.main-col
-mangaaction.com##.row.widget_text > .widget_custom_html.heading-style-1.no-icon.default.col-md-12.col-12.widget.widget_text
-
-! 2022-02-13 https://www.webmota.com
-||s7.addthis.com/dc/amp-addthis.html$subdocument
-www.webmota.com##div.l-content:nth-of-type(3)
-
-! 2022-04-13 https://www.cocomanga.com
-!www.cocomanga.com##.clear.endtip2
-||syndication.exdynsrv.com^
-@@||www.cocomanga.com/js/dynamicjs.js$script,domain=www.cocomanga.com
-@@||www.cocomanga.com/js/a_d/pic1.png$image,domain=www.cocomanga.com
-
-! 2022-04-28 https://www.baozimanhua.net
-www.baozimanhua.net##.ds
-
-! 2022-04-30 https://yemancomic.com
-||p3-sign.bdxiguaimg.com/tos-cn-i-pk90l89vgd/1418996c23c4437cadc9b867bd37d770~640x200_c1_auto.image$image
-||p3-sign.bdxiguaimg.com/tos-cn-i-pk90l89vgd/1418996c23c4437cadc9b867bd37d770~640x200_c1_auto.image$image
-
-! 2022-04-30 https://m.qimiaomh.com
-||pic.xx.tikimg.cc/xmh/150/150-4.gif$image
-||pic.xx.tikimg.cc/*$image
-
-! 2022-04-30 https://yemancomic.com
-yemancomic.com##body > .z-index-99 > .w2p.down-app > [href="/user/buy"]
-yemancomic.com##body > .z-index-99 > div > center > strong > button
-yemancomic.com##.z-index-99 > div.z-index-99 > div > center
-yemancomic.com##.z-index-99 > div.z-index-99 > .w2p.down-app > [href="/user/buy"]
-||m.52bl.cc/images/bl.gif$image
-||acgh.cc/acg.gif$image
-yemancomic.com##[href="http://dd.yemancomic.com/%E5%AE%89%E5%8D%93vip%E7%89%B9%E4%BE%9B.apk"]
-yemancomic.com##div.z-index-99:nth-of-type(3)
-yemancomic.com###read_list [href]
-
-! 2022-05-01 https://m.qimiaomh.com
-||img002.kangaroobro.com/qm.html$subdocument
-m.qimiaomh.com##[src^="data:image/png;base64,"]
-m.qimiaomh.com##.floor-view > .clearfix
-
-! 2022-05-01 https://18comic.org
-18comic.org##.in.fade.modal-backdrop
-
-! 2022-05-01 https://www.cocomanga.com
-www.cocomanga.com##.exo-native-widget
-!##a[href^="https://syndication.exdynsrv.com/splash.php"]
-
-! 2022-05-09 https://kxmh.cc
-||pic.kxmh.cc/picbed/CPMH/envshitixianmuou/48/3dfd6407-b101-11ec-89e4-024352452ce0.jpg$image
-kxmh.cc##lgzkjdgi:nth-of-type(35)
-kxmh.cc##body > .z-index-99 > div:nth-of-type(2)
-kxmh.cc##body > .z-index-99 > div > center > strong > button
-kxmh.cc##body > .z-index-99 > .w2p.down-app > [href="/user/buy"]
-kxmh.cc##.z-index-99 > div.z-index-99 > div
-
-! 2022-05-21 https://yemancomic.com
-yemancomic.com##body > .z-index-99 > div:nth-of-type(6)
-yemancomic.com##.z-index-99 > div:nth-of-type(2) > div
-yemancomic.com##div:nth-of-type(2) > p
-yemancomic.com##body > .z-index-99 > div:nth-of-type(2)
-yemancomic.com##div.z-index-99:nth-of-type(4)
-
-! 2022-05-21 https://m.happymh.com
-m.happymh.com##.jss24.MuiCardContent-root
-
-! 2022-06-07 https://www.g-lens.com
-||static3w.kuaikanmanhua.com/_nuxt/static-kkfront-mobile/image/backflow_pop_bg.bd0e58f.png$image
-||static3w.kuaikanmanhua.com/_nuxt/static-kkfront-mobile/image/backflow_pop_bg.bd0e58f.png$image
-||static3w.kuaikanmanhua.com/_nuxt/static-kkfront-mobile/image/backflow_pop_bg.bd0e58f.png$image
-www.g-lens.com##.guide-hd-banner
-www.g-lens.com##[src="https://www.haoman6.com/xz.png"]
-
-! 2022-06-08 http://zxcs.me
-zxcs.me##.diybanner
-zxcs.me##.banner
-
-! 2022-06-09 https://hk.yahoo.com
-hk.yahoo.com###feature_stream_portal_hk-AlwaysBigGemini
-
-! 2022-07-25 https://www.comicbox.xyz
-||www.comicbox.xyz/static/images/chapter_top_d.gif$image
-||www.comicbox.xyz/static/images/chapter_*.gif$image
+! 小说
+! 8/9/2019 http://www.biqujia.com
+||mo.iamqqo85467.cn/b/dot.gif$image
+www.biqujia.com###cs_right_bottom
+www.biqujia.com##.box_con > div:nth-of-type(3)
 
 ! 2022-08-03 https://m.bqkan8.com
 m.bqkan8.com##div:nth-of-type(3)
@@ -163,57 +53,117 @@ m.bqkan8.com##.W1oMwlgtext
 m.bqkan8.com##.zw1ljPz
 m.bqkan8.com##[href="javascript:posterror();"]
 
-! 2022-08-17 https://18comic.vip
-||18comic.vip/templates/frontend/airav/js/e_73f.js$image
-18comic.vip##div.col-xs-12:nth-of-type(2)
+! 2022-06-08 http://zxcs.me
+zxcs.me##.diybanner
+zxcs.me##.banner
 
-! 2022-08-18 https://18comic.vip
-||18comic.vip/templates/frontend/airav/js/c_2b3.js$image
 
-! 2022-08-20 https://18comic.vip
-||18comic.vip/templates/frontend/airav/js/15_38cf.jpg$image
+! 漫画
+! 2022-06-07 https://www.g-lens.com
+www.g-lens.com##.guide-hd-banner
+www.g-lens.com##[src="https://www.haoman6.com/xz.png"]
 
-! 2022-08-25 https://18comic.vip
-18comic.vip##div.col-xs-6:nth-of-type(3)
+! 2022-12-02 https://haoman8.com
+||haoman8.com/template/wap/default/js/swiper.js$script,domain=haoman8.com
 
-! 2022-09-13 https://manwa.me
-!manwa.me##.ad-area
+! 2021-12-07 https://www.ho5ho.com
+||ho5hocdn1.b-cdn.net/wp-content/uploads/2021/11/QT_300x100_TC_A.gif$image
+||ho5hocdn1.b-cdn.net/wp-content/plugins/floating-ads-bottom/images/close.png$image
+
+! 2022-10-16 https://m.kuaikanmanhua.com
+||tn1-f2.kkmh.com/image/220810/kIwmSNbXn.png$image
+||static3w.kuaikanmanhua.com/_nuxt/static-kkfront-mobile/image/backflow_pop_bg.bd0e58f.png$image
+||static3w.kuaikanmanhua.com/_nuxt/static-kkfront-mobile/image/backflow_pop_bg.bd0e58f.png$image
+||static3w.kuaikanmanhua.com/_nuxt/static-kkfront-mobile/image/backflow_pop_bg.bd0e58f.png$image
+m.kuaikanmanhua.com##.close-btn
+m.kuaikanmanhua.com##.bubble-swiper
+
+! 2022-05-09 https://kxmh.cc
+||pic.kxmh.cc/picbed/CPMH/envshitixianmuou/48/3dfd6407-b101-11ec-89e4-024352452ce0.jpg$image
+kxmh.cc##lgzkjdgi:nth-of-type(35)
+kxmh.cc##body > .z-index-99 > div:nth-of-type(2)
+kxmh.cc##body > .z-index-99 > div > center > strong > button
+kxmh.cc##body > .z-index-99 > .w2p.down-app > [href="/user/buy"]
+kxmh.cc##.z-index-99 > div.z-index-99 > div
+
+! 2021-12-16 https://mangaaction.com
+mangaaction.com##.body-top-ads.custom-code.c-ads.ad
+mangaaction.com##.c-row.row > .widget_custom_html.heading-style-1.no-icon.default.col-md-12.col-12.widget.widget_text
+mangaaction.com##.wp-manga.c-top-second-sidebar.c-sidebar
+mangaaction.com##.body-bottom-ads.custom-code.c-ads.ad
+mangaaction.com##.col-lg-8.col-md-8.col-sm-8.col-12.main-col
+mangaaction.com##.row.widget_text > .widget_custom_html.heading-style-1.no-icon.default.col-md-12.col-12.widget.widget_text
 
 ! 2022-09-14 https://manwa.me
+@@||manwa.me/static/upload/ads/*$image,1p
 @@||manwa.me/static/upload/ads/*
 manwa.me##.detail-comment-fix-bottom > .ad-area
 manwa.me##.ad_chapter_top_2.ad-area
 manwa.me##.ad_chapter_top.ad-area
+!manwa.me##.ad-area
 
-! 2022-09-14 https://m.happymh.com
-m.happymh.com##.MuiPaper-rounded.MuiPaper-elevation3.jss33.jss21.MuiCard-root.MuiPaper-root
+! 2021-05-10 https://m.mh1234.com
+m.mh1234.com###z320 > ul > li
+||p3.pstatp.com/large/pgc-image/*$image
 
-! 2022-10-07 https://18comic.vip
-18comic.vip##.center.container
+! 2022-04-30 https://m.qimiaomh.com
+||pic.xx.tikimg.cc/xmh/150/150-4.gif$image
+||pic.xx.tikimg.cc/*$image
+||img002.kangaroobro.com/qm.html$subdocument
+m.qimiaomh.com##[src^="data:image/png;base64,"]
+m.qimiaomh.com##.floor-view > .clearfix
 
-! 2022-10-16 https://m.kuaikanmanhua.com
-||tn1-f2.kkmh.com/image/220810/kIwmSNbXn.png$image
-m.kuaikanmanhua.com##.close-btn
-m.kuaikanmanhua.com##.bubble-swiper
+! 2022-04-30 https://yemancomic.com
+||p3-sign.bdxiguaimg.com/tos-cn-i-pk90l89vgd/1418996c23c4437cadc9b867bd37d770~640x200_c1_auto.image$image
+||p3-sign.bdxiguaimg.com/tos-cn-i-pk90l89vgd/1418996c23c4437cadc9b867bd37d770~640x200_c1_auto.image$image
+yemancomic.com##body > .z-index-99 > .w2p.down-app > [href="/user/buy"]
+yemancomic.com##body > .z-index-99 > div > center > strong > button
+yemancomic.com##.z-index-99 > div.z-index-99 > div > center
+yemancomic.com##.z-index-99 > div.z-index-99 > .w2p.down-app > [href="/user/buy"]
+||m.52bl.cc/images/bl.gif$image
+||acgh.cc/acg.gif$image
+yemancomic.com##[href="http://dd.yemancomic.com/%E5%AE%89%E5%8D%93vip%E7%89%B9%E4%BE%9B.apk"]
+yemancomic.com##div.z-index-99:nth-of-type(3)
+yemancomic.com###read_list [href]
+yemancomic.com##body > .z-index-99 > div:nth-of-type(6)
+yemancomic.com##.z-index-99 > div:nth-of-type(2) > div
+yemancomic.com##div:nth-of-type(2) > p
+yemancomic.com##body > .z-index-99 > div:nth-of-type(2)
+yemancomic.com##div.z-index-99:nth-of-type(4)
 
-! 2022-10-17 https://www.comicbox.xyz
-www.comicbox.xyz##.global-navbar-container
-www.comicbox.xyz##.global-navbar
-
-! 2022-10-24 https://www.webmota.com
+! 2022-04-28 https://www.baozimanhua.net
+www.baozimanhua.net##.ds
+||s7.addthis.com/dc/amp-addthis.html$subdocument
+www.webmota.com##div.l-content:nth-of-type(3)
+www.webmota.com###interstitial_fade
 www.webmota.com##.comic-contain > div.mobadsq > .div_adhost > .div_close_ads
 www.webmota.com##.comic-chapter > div.mobadsq > .div_adhost > .div_close_ads
 www.webmota.com##div.div_adhost
 
+! 2022-04-13 https://www.cocomanga.com
+!www.cocomanga.com##.clear.endtip2
+||syndication.exdynsrv.com^
+@@||www.cocomanga.com/js/dynamicjs.js$script,domain=www.cocomanga.com
+@@||www.cocomanga.com/js/a_d/pic1.png$image,domain=www.cocomanga.com
+www.cocomanga.com##.exo-native-widget
+!##a[href^="https://syndication.exdynsrv.com/splash.php"]
+
+! 2022-05-21 https://m.happymh.com
+m.happymh.com##.jss24.MuiCardContent-root
+m.happymh.com##.MuiPaper-rounded.MuiPaper-elevation3.jss33.jss21.MuiCard-root.MuiPaper-root
+
+! 2022-08-17 https://18comic
+||18comic.vip/templates/frontend/airav/js/e_73f.js$image
+18comic.vip##div.col-xs-12:nth-of-type(2)
+||18comic.vip/templates/frontend/airav/js/c_2b3.js$image
+||18comic.vip/templates/frontend/airav/js/15_38cf.jpg$image
+18comic.vip##div.col-xs-6:nth-of-type(3)
+18comic.vip##.center.container
+18comic.org##.in.fade.modal-backdrop
+
 ! 2022-11-23 https://www.comicbox.xyz
-||www.comicbox.xyz/static/images/book_bottom_g.gif$image
 ||www.comicbox.xyz/static/images/book_bottom_*.gif$image
-
-! 2022-12-01 https://www.webmota.com
-www.webmota.com###interstitial_fade
-
-! 2022-12-02 http://haoman8.com
-||haoman8.com/template/wap/default/js/swiper.js$script,domain=haoman8.com
-
-! 2022-12-01 https://m.happymh.com
-m.happymh.com##.jss7
+www.comicbox.xyz##.global-navbar-container
+www.comicbox.xyz##.global-navbar
+||www.comicbox.xyz/static/images/chapter_top_d.gif$image
+||www.comicbox.xyz/static/images/chapter_*.gif$image
